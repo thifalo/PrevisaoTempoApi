@@ -1,0 +1,10 @@
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\PrevisaoTempo.dll.config
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\PrevisaoTempo.deps.json
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\PrevisaoTempo.dll
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\bin\Debug\netstandard2.0\PrevisaoTempo.pdb
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.dll
+C:\Users\Thiago\Desktop\ProjetoTempo\Projeto\Tempo-Back-End\PrevisaoTempo\PrevisaoTempo\obj\Debug\netstandard2.0\PrevisaoTempo.pdb
